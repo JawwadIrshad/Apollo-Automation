@@ -7,9 +7,7 @@ COLUMNS = [
 ]
 
 # Embedded credentials (for testing purposes only)
-credentials = {
-   
-  }
+credentials = { }
 
 def setup_google_sheets(sheet_name):
     """
