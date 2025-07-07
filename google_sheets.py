@@ -80,7 +80,7 @@ def process_companies(sheet, api_endpoint):
         print(f"Error processing companies: {e}")
 
 def main():
-    sheet_name = "ApolloAPIAutomation"
+    sheet_name = " "
     api_endpoint = "/api/v1/mixed_people/search"
     sheet = setup_google_sheets(sheet_name)
 
