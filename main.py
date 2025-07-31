@@ -7,7 +7,7 @@ from src.apollo import mock_fetch_people_by_company, fetch_people_by_company
 
 
 # Constants defining the sheet name and the API endpoint for fetching data
-SHEET_NAME = "ApolloAPIAutomation"
+SHEET_NAME = "" #put sheet name here
 API_ENDPOINT = ""
 
 def main():
